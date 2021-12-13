@@ -1,4 +1,4 @@
 # Powershell
-## PowerShell vs CMD
 
-## CommandPrecedence e GetMember
+* PowerShell vs CMD </br>
+* CommandPrecedence e GetMember
