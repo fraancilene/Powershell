@@ -11,3 +11,8 @@ if ($servico.Status -eq "Running"){
 } else {
     echo "Serviço não está executando!"
 }
+
+:: para executar esse script .bat no terminal utilizamos o CommandPrecedence(.\):
+:: .\nomeDoArquivo.bat
+
+:: Se o script ou executável esta dentro de uma pasta que está na variável path, não é necessário utilizar o CommandPrecedence
