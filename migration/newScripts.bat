@@ -19,6 +19,8 @@ new-alias -name "rename" rename-item
 :: renomeando arquivo com o alias criado
 rename nome_atual.bat nome_novo.bat
 
+:: O alias criado não fica salvo, ao fechar a sessão do powershell perdemos esse alias
+
 
 
 
